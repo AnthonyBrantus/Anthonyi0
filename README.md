@@ -66,7 +66,7 @@ Mon parcours est atypique : avant l'informatique, j'ai travaillé plusieurs ann�
 **Japon** | 2023 – 2024
 
 - Immersion totale dans un environnement japonais : communication, adaptation culturelle et professionnelle
-- Gestion des situations imprévues dans une langue étrangère sans filet
+- Gestion des situations imprévues dans une langue étrangère
 - Développement d'une rigueur et d'une discipline au contact de la culture de travail japonaise
 - Expérience qui forge une vraie résilience et une ouverture d'esprit internationale
 
