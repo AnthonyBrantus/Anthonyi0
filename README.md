@@ -103,18 +103,6 @@ Mon parcours est atypique : avant l'informatique, j'ai travaillé plusieurs ann�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyBrantus&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBrantus&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌍 Ce qui me rend différent
 
 > *J'ai vécu et travaillé au Japon et en Australie avant de me former en IT. Cette expérience internationale m'a appris à m'adapter vite, à être autonome et à gérer l'inattendu — des qualités rares et précieuses dans les métiers techniques.*
