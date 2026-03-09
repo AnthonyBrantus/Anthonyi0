@@ -89,7 +89,6 @@ Mon parcours est atypique : avant l'informatique, j'ai travaillé plusieurs ann�
 | Diplôme | Organisme | Année |
 |---|---|---|
 | 🎓 Technicien Supérieur Systèmes & Réseaux *(en cours)* | Online FormaPro | 2026 |
-| 📋 DAQ — Dispositif en Amont de la Qualification | — | 2025 |
 | 🗣️ Formation Anglais | Linguaphone | 2023 |
 | 💻 Développeur Web — RNCP Bac+2 | OpenClassroom | 2021 |
 
